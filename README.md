@@ -1,5 +1,5 @@
 # graduation-project :book:
-This rep is for my master graduation research project — "Salient object detection and segmentation based on  CNN learned  visual BU and TD attention cues in mobile scene". 
+This rep is for my master graduation research project — "Mobile salient object detection and segmentation based on  CNN learned  BU and TD visual attention cues". 
 
 
 
